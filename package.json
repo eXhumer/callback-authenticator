@@ -1,0 +1,12 @@
+{
+  "name": "callback-authenticator",
+  "version": "1.0.0",
+  "description": "A simple server used to authenticate with URL callback & request query",
+  "main": "index.js",
+  "author": "eXhumer",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "google-auth-library": "^6.0.6"
+  }
+}
